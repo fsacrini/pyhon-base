@@ -16,7 +16,7 @@ Execução
     or
     ./hello.py
 """
-__version__ = "0.0.1"
+__version__ = "0.1.2"
 __author__ = "Fabio Sacrini"
 __license__ = "Unlicense"
 
@@ -43,3 +43,10 @@ print(msg)
 #Print(40 + 82)
 
 #Test
+
+# Tipos de Print
+nome = "Fabio"
+print(f"Olá, {nome}")
+print("Olá, " + nome)
+print("Olá, %s" %nome)
+print("Olá, {}".format(nome))
