@@ -1,0 +1,2 @@
+print("Send to Log", file=open("logfile.txt", "a"))
+input
