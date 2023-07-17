@@ -23,3 +23,5 @@ msg.format(numero=2, pontos=987.3, nome="Fabio")
 # f-strings -> restante, msg, print, error
 # Imprimir emoji print("\U000CODIGO") -> unicode.explorer.com
 # Imprimir emoji print("\N{panda face}") -> unicode.explorer.com
+
+## Error and Exception
